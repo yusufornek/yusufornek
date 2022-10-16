@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student at Management Information Systems. (MIS)<br>I am currently learning Java and Python.<br>Ask me about Information Technologies and Game Development.
+I'm a student at Management Information Systems. (MIS)<br>I am currently learning Java, C and Python.<br>Ask me about Information Technologies and Game Development.
 
 
 ## 🌐 Socials:
