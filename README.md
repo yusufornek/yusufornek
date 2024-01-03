@@ -15,7 +15,7 @@ I'm a student at Management Information Systems. (MIS)<br>I am currently learnin
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ### 😂 Random Dev Meme
-<img src="[https://github.com/codewithpom/dev-meme/raw/main/images/11.png]" width="512px"/>
+<img src="[https://github.com/codewithpom/dev-meme]" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=yusufornek&icon=9&color=4)](https://visitcount.itsvg.in)
